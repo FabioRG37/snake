@@ -9,7 +9,7 @@ stou me baseando em um tutorial do youtube, se quiser conferir, estou disponibil
 https://www.youtube.com/playlist?list=PLtrSb4XxIVbr6jEo3LidRZrA5fLuPlC7A
 
 Como dito, o objetivo é meramente didático, haja visto que comecei a programar jogos recentemente, repetindo, este é o terceiro projeto com esta finalidade.
-Reitero, como dito no projeto no projeto do **pac-man** e do **pong**, nem sequer iniciei um projeto grande sozinho.
+Reitero, como dito no projeto do **pac-man** e do **pong**, nem sequer iniciei um projeto grande sozinho.
 
 ## Contribuições
 
