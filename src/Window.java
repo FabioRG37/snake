@@ -10,8 +10,8 @@ public class Window extends JFrame implements Runnable {
     public KL keyListener = new KL();
     public ML mouseListener = new ML();
 
-    public Window(int widht, int height, String title) {
-        setSize(widht, height);
+    public Window(int width, int height, String title) {
+        setSize(width, height);
         setTitle(title);
         setResizable(false);
         setVisible(true);
@@ -36,8 +36,8 @@ public class Window extends JFrame implements Runnable {
         isRunning = false;
     }
 
-    public void changeState(int newSate) {
-        currentState = newSate;
+    public void changeState(int newState) {
+        currentState = newState;
         switch (currentState) {
             case 0:
                 currentScene = new MenuScene(keyListener, mouseListener);
